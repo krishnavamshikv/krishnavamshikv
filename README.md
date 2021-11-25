@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishnavamshikv
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning pyhton and R 
-- 💞️ I’m looking to collaborate on any data analysis programms
+- 💞️ I’m looking to collaborate on any data analysis projects
 - 📫 Reach me www.linkedin.com/in/krishnavamshi17
 
 <!---
