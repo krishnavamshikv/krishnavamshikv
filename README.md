@@ -1,1 +1,1 @@
-wery
+Full stack Web Developer
