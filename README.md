@@ -1,9 +1,7 @@
-### Hi there, I'm [Your Name] 👋  
+### Hi there, I'm Krishna Vamshi👋  
 
 🚀 **Technology Support Specialist @ Infosys**  
 🎯 Aspiring Full-Stack Developer | Future Software Engineer at a Product-Based Company  
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
 ---
 
@@ -21,7 +19,7 @@
 - 🤝 Open to collaborations and learning opportunities!  
 
 ---
-
+<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47rvxqiv8mi2b5nz0o8adwyo5wfthdx3r7dycpfhz9&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" />
 ### 📫 Connect with Me:
 - [LinkedIn](#)  
 - [Portfolio](#) (If you have one)  
