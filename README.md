@@ -4,7 +4,7 @@
 🎯 Aspiring Full-Stack Developer | Future Software Engineer at a Product-Based Company  
 
 ---
-
+<img align="right" src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif?cid=ecf05e47uoegfebt1m7zz6s2uliz4lo7s2hqug8xlaef5h7c&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" />
 ### 🛠 Tech Stack:
 - **Languages:** Python, Perl, JavaScript  
 - **Frontend:** React, Next.js  
@@ -19,9 +19,9 @@
 - 🤝 Open to collaborations and learning opportunities!  
 
 ---
-<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47rvxqiv8mi2b5nz0o8adwyo5wfthdx3r7dycpfhz9&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" />
+
 ### 📫 Connect with Me:
 - [LinkedIn](#)  
-- [Portfolio](#) (If you have one)  
+- [Portfolio](#) Building it  
 
 💻 Always up for a tech discussion or brainstorming session! 🚀  
