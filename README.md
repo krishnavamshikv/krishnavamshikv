@@ -7,7 +7,7 @@ I specialize in building scalable, resilient infrastructure and automating devel
 
 ### 🛠️ Technical Stack
 
-- **Languages:** Go (Golang), C++, Perl, Bash
+- **Languages:** Go (Golang), Python, Perl, Bash
 - **Cloud:** AWS (VPC, EC2, S3, RDS, IAM, Lambda)
 - **Orchestration & Containers:** Kubernetes, Docker, Helm
 - **IaC & Automation:** Terraform, Ansible, GitHub Actions, Jenkins
