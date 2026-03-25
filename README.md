@@ -33,7 +33,7 @@ I specialize in building scalable, resilient infrastructure and automating devel
 
 ### 📫 Connect with Me
 - **Portfolio:** [curiouskv.xyz](http://curiouskv.xyz)
-- **LinkedIn:** [linkedin.com/in/krishnavamshi](https://www.linkedin.com/in/krishna-vamshi-valupadasu-me/) 
+- **LinkedIn:** [linkedin.com/in/krishnavamshikv](https://www.linkedin.com/in/krishnavamshikv/) 
 - **Learning:** Improving my workflow with **Vim motions** in VS Code.
 
 ---
