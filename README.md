@@ -18,8 +18,6 @@ I specialize in building scalable, resilient infrastructure and automating devel
 ### 🚀 Featured Projects
 
 - **[AWS 3-Tier Automation](https://github.com/krishnavamshikv/aws-3tier-terraform-automation)** *Terraform-based automation of a highly available 3-tier architecture with private networking and RDS.*
-  
-- **[Go-based Cloud Scraper](https://github.com/krishnavamshikv)** *(Coming Soon)* *A CLI tool written in Go to identify orphaned AWS resources and optimize cloud spend.*
 
 - **[CI/CD for Node.js](https://github.com/krishnavamshikv/node-app-deploy-github-actions)** *Automated deployment pipeline using GitHub Actions and multi-stage Docker builds.*
 
